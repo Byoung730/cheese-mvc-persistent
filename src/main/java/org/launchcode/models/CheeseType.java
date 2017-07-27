@@ -1,11 +1,14 @@
-package org.launchcode.models;
+/*
+//package org.launchcode.models;
 
+*/
 /**
  * Created by LaunchCode
- */
-public enum CheeseType {
+ *//*
 
-    HARD ("Hard"),
+//public enum CheeseType {
+
+  //  HARD ("Hard"),
     SOFT ("Soft"),
     FAKE ("Fake");
 
@@ -20,3 +23,4 @@ public enum CheeseType {
     }
 
 }
+*/
